@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Mu'az! 👋
 
-<!--
-**nerolynx27/nerolynx27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science (Artificial Intelligence) undergraduate** at Universiti Tenaga Nasional (UNITEN), Malaysia.
 
-Here are some ideas to get you started:
+I'm an aspiring AI engineer, developer, and student leader who enjoys turning ideas into working solutions. I believe the best way to learn technology is by building things, experimenting, and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- **AI & Local LLMs:** Exploring local language models, AI agents, and intelligent applications.
+- **Software Development:** Building web and mobile applications, automation systems, and practical tools.
+- **Entrepreneurship:** Developing technology-driven solutions that address real business and community needs.
+- **Continuous Learning:** Strengthening my skills in software engineering, AI, and open-source development.
+
+### 💡 A Little About Me
+Beyond programming, I have experience leading student organizations, managing teams, coordinating events, and handling organizational finances.
+
+I enjoy working with people from different backgrounds, exchanging ideas, and transforming challenges into opportunities to learn and innovate.
+
+### 🎯 My Goals
+To become a skilled AI engineer, contribute to meaningful open-source projects, participate in international hackathons, and eventually work on cutting-edge AI technologies.
+
+### 🤝 Let's Connect!
+I'm always open to collaborating on AI projects, hackathons, open-source contributions, and exciting ideas.
+
+**Let's build something meaningful together!**
